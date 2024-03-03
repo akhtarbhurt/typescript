@@ -89,7 +89,7 @@ console.log(`\nDear ${anotherGuestList[0]} and ${anotherGuestList[1]},
   You are still invited to join me for a dinner. 
   We apologize for any inconvenience caused by the change in plans. 
   Please let us know if you can make it. 
-  Best regards, [Your Name]\n`);
+  Best regards, Akhtar Hameed\n`);
 
 // Remove the last two names from the list, leaving it empty
 anotherGuestList.pop();
