@@ -57,7 +57,7 @@ const middleIndex: number = Math.floor(anotherGuestList.length / 2);
 anotherGuestList.splice(middleIndex, 0, newGuestInMiddle);
 
 // Use push() to add one new guest to the end of the list
-const newGuestAtEnd: string = "Marie Antoinette";
+const newGuestAtEnd: string = "Benazir Bhutto";
 newGuestList.push(newGuestAtEnd);
 
 // Execute new set of invitation messages for each person in the updated list
