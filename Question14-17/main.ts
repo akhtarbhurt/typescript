@@ -97,3 +97,5 @@ anotherGuestList.pop();
 
 // Print the list to confirm it's empty
 console.log("Guest List after the dinner:\n", anotherGuestList);
+
+export default anotherGuestList
