@@ -1,7 +1,8 @@
+//Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:
 
-const famous_person: string = "Albert Einstein";
-const quote2: string = "A person who never made a mistake never tried anything new.";
+export const famous_person: string = "Albert Einstein";
+export const quote: string = "A person who never made a mistake never tried anything new.";
 
-const message: string = `${famous_person} once said, "${quote2}"`;
+const message: string = `${famous_person} once said, "${quote}"`;
 
-console.log(message);
+console.log( "Question 4", message);
