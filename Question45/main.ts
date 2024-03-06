@@ -1,7 +1,3 @@
-// Car Information Program
-// Author: [Your Name]
-// Date: [Current Date]
-
 // Function to store information about a car
 function carInformation(manufacturer: string, model: string, ...options: { [key: string]: any }[]): { [key: string]: any } {
     const carInfo: { [key: string]: any } = {

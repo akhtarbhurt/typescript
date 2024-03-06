@@ -1,6 +1,3 @@
-// Car Information Program
-// Author: [Your Name]
-// Date: [Current Date]
 // Function to store information about a car
 function carInformation(manufacturer, model) {
     var options = [];
